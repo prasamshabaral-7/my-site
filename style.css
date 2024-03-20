@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: navajowhite;
+}
+
+a {
+
+    color:white;
+    text-decoration: none;
+    font-size: medium;
+    font-family: sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+
+    display: inline;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+nav {
+    background-color: cornflowerblue;
+    
+    padding: 15px;
+}
+
+a:hover {
+    color: black;
+}
+#login{
+    text-align: center;
+    
+}
+.form{
+    border: 2px solid black;
+    text-align: center;
+    width: 200px;
+    display: inline-block;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 4%;
+    background-color: white;
+    
+}
+.container{
+    text-align: center;
+    margin-top: 10px;
+   
+}
+.form input{
+    margin-bottom: 10%;
+}
+#sub{
+    padding: 5%;
+}
+#terms{
+    font-family: sans-serif;
+    color: blue;
+}
+#signup{
+    text-align: center;
+    color: blue;
+}
+.section{
+    text-align: center;
+    padding: 5%;
+    ;
+}
